@@ -5,7 +5,7 @@ I love speaking in security conferences, sharing my vision and experiences with 
 
 FYI, I can get paid in donuts. 🍩
 
-Skills: Technical Director | Security Researcher | OSCP | OSCE | MSc
+Skills: Technical Director | Security Researcher | OSCP | OSCE | MSc | DEFCON Speaker
 
 - 📫 How to reach me: [Website](https://cr0wsplace.com)
 
